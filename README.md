@@ -19,3 +19,6 @@
   <li>Programar</li>
   <li>Estudar assuntos de meu interesse</li>
 </ul>
+
+<h1>Certificados e Cursos realizados</h1>
+
