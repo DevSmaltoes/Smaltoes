@@ -1,21 +1,21 @@
-# Smaltoes
-
-Meu repositório pessoal.
+<h1>Meu repositório pessoal.</h1>
 
 ## Experiências
-<ol>
-  <li>Meu repositório pessoal: Smaltoes.</li>
-</ol>
+<ul>
+  <li>Básico de Html, Css e Javascript (com maior foco em javascript)</li>
+  <li>Mysql 🏦</li>
+  <li>git 🐈‍⬛</li>
+  <li>iniciante em desenvolvimento BackEnd</li>
+</ul>
 
 ## Habilidades
-<ol>
-  <li>Conhecimentos básicos de JavaScript.</li>
-  <li>Atualmente aprendendo Java.</li>
-</ol>
+<ul>
+  <li>Socializável</li>
+  <li>Aprender novos conceitos de forma rápida</li>
+</ul>
 
 ## Gostos
-<ol>
-  <li>Jogar, programar e estudar assuntos de meu interesse.</li>
-  <li>Prefiro ficar em casa programando a ir a festas.</li>
-  <li>Sou pouco socializável fora da minha roda de amigos.</li>
-</ol>
+<ul>
+  <li>Programar</li>
+  <li>Estudar assuntos de meu interesse</li>
+</ul>
